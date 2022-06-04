@@ -1,0 +1,17 @@
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #c1cbda;
+}
+
+#Albums{
+    background-color: #a2d9ff;
+}
+
+section {
+    padding-top: 10em;
+}
+
+footer {
+    height: 50px;
+    padding-top: 13px;
+}
